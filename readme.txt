@@ -18,8 +18,10 @@ create a new branch dev
 
 
 merge dev
+<<<<<<< HEAD
 
 dev project
+=======
 
 =======
 
