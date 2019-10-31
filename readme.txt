@@ -19,5 +19,9 @@ create a new branch dev
 
 merge dev
 
-master commit
 
+
+=======
+
+dev commit
+>>>>>>> dev
