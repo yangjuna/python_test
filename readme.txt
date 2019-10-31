@@ -18,10 +18,23 @@ create a new branch dev
 
 
 merge dev
+<<<<<<< HEAD
 bug list
 
+=======
+<<<<<<< HEAD
+
+dev project
+=======
+>>>>>>> dev
 
 =======
 
 dev commit
 >>>>>>> dev
+
+
+
+
+
+追加测试
